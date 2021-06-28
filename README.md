@@ -22,4 +22,4 @@ e utiliza o [glide](https://github.com/bumptech/glide) para aplicar filtros na i
 
 ## Notes
 
-O Simples aplicativo de todo List no android e para realizar o Create, Reade, Update, delete (CRUD) é utilizado o SQlite.
+O Simples aplicativo de todo List no android e para realizar o Create, Reade, Update, Delete (CRUD) é utilizado o SQlite.
